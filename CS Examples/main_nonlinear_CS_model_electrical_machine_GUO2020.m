@@ -117,4 +117,4 @@ subplot(2,1,2), box on, grid on, hold on % Plot Bth
     plot(THETA*180/pi,BTH,'-k');
 ylabel('B_{\theta} [T]')
 xlim([0,60]), ylim([-3,2.5])
-xlabel('$\theta$ [mec. deg]')
+xlabel('\theta [mec. deg]')
