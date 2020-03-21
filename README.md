@@ -1,4 +1,4 @@
-# CS model
+# CS model Toolbox
 
 The CS model Toolbox is a Matlab toolbox for the numerical resolution of the nonlinear current sheet model (ie. the formal resolution of Maxwell’s equations in annular subdomains delimited by cylindrical current sheets) in the magnetostatic approximation. It is well suited to model slotless wound rotor electrical machines, for example.
 
